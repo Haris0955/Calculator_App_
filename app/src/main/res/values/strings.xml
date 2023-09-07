@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalculatorApplication</string>
+
+    <string name="four">4</string>
+    <string name="six">6</string>
+    <string name="Multiply">*</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="Minus">-</string>
+    <string name="ZEro">0</string>
+    <string name="clear">CLR</string>
+    <string name="Add">+</string>
+    <string name="equals">=</string>
+    <string name="dot">.</string>
+</resources>
